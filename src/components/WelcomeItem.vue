@@ -20,7 +20,7 @@
 
 .details {
   flex: 1;
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 i {
